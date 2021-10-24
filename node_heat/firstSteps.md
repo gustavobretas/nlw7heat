@@ -32,3 +32,12 @@ git init
 
 #Adicionar o Prisma.io
 https://www.prisma.io/docs/getting-started/setup-prisma/add-to-existing-project
+
+
+#Adicionar Socket.io
+yarn add socket.io
+yarn add @types/socket.io -D
+
+#Adicionar Cors
+yarn add cors
+yarn add @types/cors -D
